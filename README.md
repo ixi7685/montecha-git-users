@@ -1,13 +1,7 @@
   
-      Download code
+  Live app on
   
-      install node modules with command:  npm install
+  [Demo on Netlify](https://focused-goodall-c1bc2d.netlify.app)
   
-      run npm start
   
-      or you can see 
-  
-      [Demo on Netlify](https://focused-goodall-c1bc2d.netlify.app)
-  
-      App is responsive
   
