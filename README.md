@@ -5,9 +5,9 @@
   
   or download code and 
   
-  install node modules with command : npm install
+  install node modules with command: npm install
   
-  Then run command to start : run npm start  
+  Then run command to start: run npm start  
   
   
   Responsive web design
