@@ -1,0 +1,32 @@
+.user_search__result_button {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 20px;
+  color: var(--text-light);
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.user_search__result_button:hover {
+  border: 1px solid var(--text-grey);
+}
+
+.user_search__result_button:hover > .material-icons {
+  display: block;
+}
+
+.user__click__message {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-grey);
+  margin-bottom: 35px;
+}
+
+.user_search__result_button > .material-icons {
+  color: var(--text-grey);
+  display: none;
+}

@@ -1,0 +1,27 @@
+.user_search {
+  width: 360px;
+  height: 100%;
+  position: fixed;
+  
+  left: 0;
+  background: var(--sidebar-bg-color);
+  display: flex;
+  flex-direction: column;
+
+  padding: 0px 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .user_search {
+    width: 100%;
+  }
+}
+
+.user_search__header {
+  height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color: var(--text-light);
+  padding: 0px 10px;
+}

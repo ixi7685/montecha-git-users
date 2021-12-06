@@ -1,0 +1,63 @@
+.main {
+  flex: 1;
+  background: var(--main-bg-color);
+  min-height: 100vh;
+  min-width: 80%;
+  overflow: auto;
+  padding: 0px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.main__wrapper {
+  width: 650px;
+  margin: 0px auto;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.main__gist__repo__title {
+  font-size: 1.5em;
+  color: var(--text-grey);
+  border-bottom: 1px solid white;
+}
+
+.main__height {
+  padding: 25px;
+  display: flex;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bio {
+  margin-top: 5px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.gist {
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow-wrap: break-word;
+}
+
+@media screen and (max-width: 500px) {
+  .main {
+    flex: none;
+    width: 100%;
+  }
+
+  .main__wrapper {
+    width: 100%;
+  }
+}
