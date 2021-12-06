@@ -1,6 +1,8 @@
   
   Download code
+  
   Install node modules with command:  npm install
+  
   Run npm start
   
   or you can see 
