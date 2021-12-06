@@ -1,13 +1,13 @@
   
-   **Download code
+    - Download code
   
-  --Install node modules with command:  npm install
+      install node modules with command:  npm install
   
-  --Run npm start
+      run npm start
   
-  --or you can see 
+      or you can see 
   
-  **[Demo on Netlify](https://focused-goodall-c1bc2d.netlify.app)
+    - [Demo on Netlify](https://focused-goodall-c1bc2d.netlify.app)
   
-  --app is responsive
+    - App is responsive
   
